@@ -7,8 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=siamsplash5" alt="siamsplash5" /></a> </p>
 
-<p align="right">
-    <img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="280"> </img>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="380"> </img>
 </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
@@ -83,11 +83,11 @@
 </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=siamsplash5&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=siamsplash5&show_icons=true&locale=en&theme=merko"
         alt="siamsplash5" /></p>
 
 <p>&nbsp;<img align="right"
         src="https://github-readme-stats.vercel.app/api?username=siamsplash5&show_icons=true&locale=en&theme=merko"
         alt="siamsplash5" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=siamsplash5&" alt="siamsplash5" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siamsplash5&theme=merko" alt="siamsplash5" /></p>
