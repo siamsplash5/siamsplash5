@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Siam Ahmed</h1>
 <h3 align="center">Competitive Programmer | Problem Setter & Judge | Specialist in Codeforces | 4* in Codechef</h3>
-<p align="center">
-<img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="480"> </img>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsplash5&label=Profile%20views&color=0e75b6&style=flat" alt="siamsplash5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siamsplash5" alt="siamsplash5" /></a> </p>
+
+<p align="center">
+<img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="480"> </img>
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript Frameworks.**
 
-- 👨‍💻 All of my projects are available at [https://siamsplash5.netlify.app/](https://siamsplash5.netlify.app/)
+- 👨‍💻 To know more about me, visit [https://siamsplash5.netlify.app/](https://siamsplash5.netlify.app/)
 
 - 📫 How to reach me **siamsplash52@gmail.com**
 
