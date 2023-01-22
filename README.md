@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siam Ahmed</h1>
 <h3 align="center">Competitive Programmer | Problem Setter & Judge | Specialist in Codeforces | 4* in Codechef</h3>
 <p align="center">
-<img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="420"> </img>
+<img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="480"> </img>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsplash5&label=Profile%20views&color=0e75b6&style=flat" alt="siamsplash5" /> </p>
 
