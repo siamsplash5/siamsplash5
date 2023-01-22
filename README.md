@@ -8,13 +8,12 @@
             src="https://github-profile-trophy.vercel.app/?username=siamsplash5" alt="siamsplash5" /></a> </p>
 
 <p align="center">
-    <img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="380"> </img>
+    <img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="880"> </img>
 </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript Frameworks.**
 
 - 👨‍💻 To know more about me, visit [https://siamsplash5.netlify.app/](https://siamsplash5.netlify.app/)
 
@@ -23,6 +22,7 @@
 - 📄 Know about my experiences [https://tinyurl.com/siamsplash5resume](https://tinyurl.com/siamsplash5resume)
 
 </p>
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
