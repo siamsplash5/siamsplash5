@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siam Ahmed</h1>
-<h3 align="center">I'm a competitive programmer and problem solver. I've solved 2500+ problems in different online judges and participated in various onsite and online programming contests. I've become a Specialist in Codeforces with a max rating of 1430. I've participated in 220+ contests on this platform. Also, I've become a 4-star programmer on Codechef with a max rating of 1933. I was a Problem Setter & Judge in the DIU Take-Off Programming Contest, Fall 2022, which is one of the signature events of Daffodil International University. Besides competitive programming, my interest field is web development. I'm a person who believes in consistency, and hard work and love to take on new challenges to upgrade my skillsets.</h3>
+<h2 align="center">Competitive Programmer | Problem Setter & Judge | Specialist in Codeforces | 4* in Codechef</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsplash5&label=Profile%20views&color=0e75b6&style=flat" alt="siamsplash5" /> </p>
 
