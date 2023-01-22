@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siam Ahmed</h1>
 <h3 align="center">Competitive Programmer | Problem Setter & Judge | Specialist in Codeforces | 4* in Codechef</h3>
-
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsplash5&label=Profile%20views&color=0e75b6&style=flat" alt="siamsplash5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siamsplash5" alt="siamsplash5" /></a> </p>
