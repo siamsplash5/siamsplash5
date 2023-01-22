@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siam Ahmed</h1>
-<h3 align="center">I'm studying Computer Science & Engineering at Daffodil International University. I'm a competitive programmer and problem solver. I've solved 2500+ problems in different online judges and participated in various onsite and online programming contests. I've become a Specialist in Codeforces with a max rating of 1430. I've participated in 220+ contests on this platform. Also, I've become a 4-star programmer on Codechef with a max rating of 1933. I was a Problem Setter & Judge in the DIU Take-Off Programming Contest, Fall 2022, which is one of the signature events of Daffodil International University. Besides competitive programming, my interest field is web development. I'm familiar with C/C++, Javascript, Python, etc. I'm a person who believes in consistency, and hard work and love to take on new challenges to upgrade my skillsets.</h3>
+<h3 align="center">I'm a competitive programmer and problem solver. I've solved 2500+ problems in different online judges and participated in various onsite and online programming contests. I've become a Specialist in Codeforces with a max rating of 1430. I've participated in 220+ contests on this platform. Also, I've become a 4-star programmer on Codechef with a max rating of 1933. I was a Problem Setter & Judge in the DIU Take-Off Programming Contest, Fall 2022, which is one of the signature events of Daffodil International University. Besides competitive programming, my interest field is web development. I'm a person who believes in consistency, and hard work and love to take on new challenges to upgrade my skillsets.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsplash5&label=Profile%20views&color=0e75b6&style=flat" alt="siamsplash5" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript Framworks**
+- 🌱 I’m currently learning **Javascript Frameworks.**
 
 - 👨‍💻 All of my projects are available at [https://siamsplash5.netlify.app/](https://siamsplash5.netlify.app/)
 
