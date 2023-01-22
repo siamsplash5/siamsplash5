@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **siamsplash52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/2/d/1CSMK8Np4vAgSIy0U_laxD3Kr4qejSLxp/view?usp=sharing](https://drive.google.com/file/u/2/d/1CSMK8Np4vAgSIy0U_laxD3Kr4qejSLxp/view?usp=sharing)
+- 📄 Know about my experiences [https://tinyurl.com/siamsplash5resume](https://tinyurl.com/siamsplash5resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
