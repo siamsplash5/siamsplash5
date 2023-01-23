@@ -4,19 +4,23 @@
 
 
 
-<p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=siamsplash5&label=Profile%20views&color=0e75b6&style=flat"
-        alt="siamsplash5" /> </p>
- 
- <p align="center">
+<p align="center">
         <a href="https://www.linkedin.com/in/siam-ahmed-463b631b0/">
             <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siam-ahmed-463b631b0/" alt="">
+        </a>
+        <a href="https://codechef.com/users/siamsplash5">
+            <img src="https://img.shields.io/badge/-Codechef-6b4024?style=flat-square&logo=codechef&logoColor=white&link=https://codechef.com/users/siamsplash5" alt="">
         </a>
         <a href="https://codeforces.com/profile/siamsplash5">
             <img src="https://img.shields.io/badge/-Codeforces-2D6DA9?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/siamsplash5" alt="">
         </a>
-        <a href="https://www.codechef.com/users/siamsplash5">
-            <img src="https://img.shields.io/badge/-Codechef-6b4024?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/siamsplash5" alt="">
+        <a href="https://leetcode.com/siamsplash5/">
+            <img src="https://img.shields.io/badge/-Leetcode-E67E22?style=flat-square&logo=leetcode&logoColor=white&link=https://https://leetcode.com/siamsplash5"
+                alt="">
+        </a>
+        <a href="https://uhunt.onlinejudge.org/id/1129555">
+            <img src="https://img.shields.io/badge/-uHunt-DE3163?style=flat-square&logo=uhunt&logoColor=white&link=https://uhunt.onlinejudge.org/id/1129555"
+                alt="">
         </a>
     </p>
 
