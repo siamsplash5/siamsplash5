@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siam Ahmed</h1>
 <h3 align="center">Competitive Programmer | Problem Setter & Judge | Specialist in Codeforces | 4* in Codechef</h3>
+
+<p align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siam-ahmed-463b631b0/)](https://www.linkedin.com/in/siam-ahmed-463b631b0)
+[![Codeforces Badge](https://img.shields.io/badge/-Codeforces-2D6DA9?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/siamsplash5)](https://codeforces.com/siamsplash5)
+[![Codechef Badge](https://img.shields.io/badge/-Codechef-6b4024?style=flat-square&logo=codechef&logoColor=white&link=https://codechef.com/siamsplash5)](https://codechef.com/siamsplash5)
+ </p>
+
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=siamsplash5&label=Profile%20views&color=0e75b6&style=flat"
         alt="siamsplash5" /> </p>
@@ -26,10 +33,6 @@
 <br><br>
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
-
-[![Github Badge] (https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/siamsplash5/)](https://github.com/siamsplash5/) 
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
