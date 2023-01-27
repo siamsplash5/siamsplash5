@@ -29,21 +29,23 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p>
+        <img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="800" align=center> </img>
+</p>
 
 
-<img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="400" align=right> </img>
-
-<br><br><br>
+<p>
 
 - 👨‍💻 To know more about me, visit [https://siamsplash5.netlify.app/](https://siamsplash5.netlify.app/)
 
 - 📫 How to reach me **siamsplash52@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/siamsplash5resume](https://tinyurl.com/siamsplash5resume)
+    
+</p>
 
-<br><br>
+
 
 <p align="left">
 
