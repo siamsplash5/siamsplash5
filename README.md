@@ -41,7 +41,7 @@
 
 - 📫 How to reach me **siamsplash52@gmail.com**
 
-- 📄 Know about my experiences [tinyurl.com/siamsresume](tinyurl.com/siamsresume)
+- 📄 Know about my experiences [https://tinyurl.com/siamsresume](https://tinyurl.com/siamsresume)
     
 </p>
 
