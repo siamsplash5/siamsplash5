@@ -24,12 +24,6 @@
         </a>
     </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=siamsplash5" alt="siamsplash5" /></a> </p>
-
-
-
-
 <p align="center">
         <img src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif" width="700"> </img>
 </p>
@@ -37,7 +31,7 @@
 
 <p>
 
-- 👨‍💻 To know more about me, visit [https://siamsplash5.netlify.app/](https://siamsplash5.netlify.app/)
+- 👨‍💻 To know about me, visit [https://siamsplash5.netlify.app/](https://siamsplash5.netlify.app/)
 
 - 📫 How to reach me **siamsplash52@gmail.com**
 
