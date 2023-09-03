@@ -27,11 +27,11 @@
 
 <p>
 
-- 👨‍💻 To know about me, visit [https://siamsplash5.netlify.app/](https://siamsplash5.netlify.app/)
+- 👨‍💻 To know more about me, visit [siamsplash5.netlify.app](https://siamsplash5.netlify.app/)
 
 - 📫 How to reach me **siamsplash52@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/siamsresume](https://flowcv.com/resume/01h8fblhb1)
+- 📄 Know about my experiences, visit: [https://flowcv.com/resume/siamsplash5](https://flowcv.com/resume/01h8fblhb1)
     
 </p>
 
