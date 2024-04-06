@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siam Ahmed</h1>
-<h3 align="center">Competitive Programmer | MERN Enthusiastic | Bangladesh</h3>
+<h3 align="center">Software Engineer | Bangladesh</h3>
 
 
 
