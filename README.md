@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-uHunt-DE3163?style=flat-square&logo=uhunt&logoColor=white" alt="uHunt" />
   </a>
 </p>
-<hr>
+<hr/>
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -54,17 +54,18 @@
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" />
 </p>
 
-<hr>
+<hr/>
 
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=siamsplash5&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=siamsplash5&theme=dark&hide_border=false" alt="Streak Stats" height="200"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsplash5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
+  
+  <img src="https://github-contributor-stats.vercel.app/api?username=siamsplash5&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Languages" height="200"/>
 
-   <img src="https://github-contributor-stats.vercel.app/api?username=siamsplash5&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=siamsplash5&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+
 </div>
