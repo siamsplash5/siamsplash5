@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Siam Ahmed</h2>
-<p align="center">Software Engineer | Bangladesh</p>
+<h1 align="center">Hi 👋, I'm Siam!</h1>
+<h3 align="center">Software Engineer | Bangladesh</h3>
 
 <p align="center">
   <a href="mailto:siam.ahmed.career@gmail.com">
